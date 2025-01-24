@@ -14,7 +14,7 @@ This project demonstrates how to set up a Data Engineering pipeline using Docker
 
 
 ## Detailed Instructions
-Medium Post: https://medium.com/p/26833e2476ac
+Medium Post: comming soon hehe
 
 
 ## Setup Instructions
